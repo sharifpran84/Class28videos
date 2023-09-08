@@ -147,3 +147,10 @@ img {
     margin-top: -55px;
     margin-left: 12px;
 }
+
+/* responsive */
+@media (max-width:1199px) {
+    .activety {
+        margin-top: 0px;
+    }
+}
